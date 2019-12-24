@@ -77,12 +77,12 @@
 			});
 
 			$('.mu-wordpress-bar').LineProgressbar({
-				percentage: 80,
+				percentage: 90,
 				triggerOnce: true
 			});
 
-			$('.mu-jquery-bar').LineProgressbar({
-				percentage: 55,
+			$('.mu-django-bar').LineProgressbar({
+				percentage: 95,
 				triggerOnce: true
 			});
 
